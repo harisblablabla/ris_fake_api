@@ -1,0 +1,11 @@
+{
+    "karyawan": [
+        {"id":1,"nama":"Rohan","usia":"13","domisili":"jakarta"},
+        {"id":2,"nama":"Andi","usia":"23","domisili":"bandung"},
+        {"id":3,"nama":"Johan","usia":"33","domisili":"jakarta"},
+        {"id":4,"nama":"Sule","usia":"31","domisili":"bandung"},
+        {"id":5,"nama":"Ahmad","usia":"32","domisili":"jakarta"},
+        {"id":6,"nama":"Ponco","usia":"41","domisili":"bandung"},
+        {"id":7,"nama":"Alex","usia":"9","domisili":"jakarta"}
+    ]
+}
